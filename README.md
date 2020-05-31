@@ -31,7 +31,7 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
     ├── ...
     ├── Kelompok_1                # Nama repositori
     │   ├── Project Web           # Berisi source code project anda
-    │   ├── Kelompok.md           # List Anggota kelompok anda
+    │   ├── Contributors.md       # List bodata Anggota kelompok anda
     │   └── Link Website.md       # Demo Website project anda
     └── ...
 
