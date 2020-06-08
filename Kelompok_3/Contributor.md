@@ -1,7 +1,7 @@
 #  UAS Pengembangan Aplikasi Berbasis WEB
 #### Kelompok-3 --- Aplikasi WEB Pendaftaran Mahasiswa Baru
 
-* [LINK WEBSITE](pmb-kampus.000webhostapp.com/) 
+* [LINK WEBSITE](https://pmb-kampus.000webhostapp.com/) 
 
 ## Contributors ✨
 
