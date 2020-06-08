@@ -6,4 +6,4 @@
 
 Nope : Web Kurang Responsif, Dikarenakan Pengerjaan Yang Tidak Efektif Tetapi Fungsi Insyaallah Jalan Semua.
 
-Webiste : [LINK WEBSITE](pmb-kampus.000webhostapp.com/) 
+Webiste : [LINK WEBSITE](https://pmb-kampus.000webhostapp.com/) 
